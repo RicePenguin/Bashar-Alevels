@@ -1,0 +1,30 @@
+/* header */
+
+.main-header {
+  background-color: dodgerblue;
+  padding: 3%;
+  text-align: center;
+  margin: 0;
+}
+
+.unit-title {
+  margin-left: 50%;
+}
+
+/* progress cards */
+
+.card-title {
+  font-weight: 700;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.d-flex .card {
+  margin: 50px;
+}
+
+i {
+  color: green;
+  position: absolute;
+  right: 5%;
+}
